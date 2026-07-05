@@ -69,12 +69,17 @@ Server will start on `http://localhost:3000` (or `PORT` env var).
 ## Screenshot placeholders
 
 Figure 1 — `GET /health` response
+![Get Method](image-1.png)
 
 Figure 2 — Create course + returned `draft` status
+![Create course + returned `draft` status](image.png)
 
 Figure 3 — Invalid DTO (400) example
+![Invalid DTO 400](image-2.png)
 
 Figure 4 — Missing course (404) example
+![Missing Course](image-3.png)
 
 Figure 5 — Add lesson (lesson starts with `isCompleted: false`)
+![Lesson Added](image-4.png)
 
